@@ -166,7 +166,6 @@ export default {
             display: none
           .text
             background: #73b785
-            color: #ffffff
       &:after
         content: ''
         display: block
@@ -201,8 +200,8 @@ export default {
     &.right
       .text-wrap
         .text
-          background: #73b785
-          color: #ffffff
+          background: #73b785 !important
+          color: #ffffff !important
     .pic
     .text-wrap
       .name
@@ -221,8 +220,8 @@ export default {
     &.right
       .text-wrap
         .text
-          background: #73b785
-          color: #ffffff
+          background: #73b785 !important
+          color: #ffffff !important
     .pic
     .text-wrap
       .name
@@ -246,7 +245,7 @@ export default {
     &.right
       .text-wrap
         .text
-          background: #FFEC42
+          background: #FFEC42 !important
     .pic
     .text-wrap
       .name
