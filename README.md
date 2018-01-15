@@ -1,8 +1,7 @@
 # fake-chat-maker
 
 > 가상 채팅을 만듭니다.
->
-> vue.js, vuex, sass 연습용 프로젝트
+> vue.js, vuex, sass 연습용으로 만든 프로젝트
 
 
 # 사용한 것
