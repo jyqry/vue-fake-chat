@@ -23,13 +23,12 @@ vuex 템플릿은 [박창주](https://github.com/ChangJoo-Park)님의 [webpack t
 # 설치 및 빌드
 
 ```
+# install dependencies
 npm install
+
+# serve with hot reload at localhost:8080
 npm run dev
-```
 
-혹은
-
-```
-yarn install
-yarn run dev
+# build for production with minification
+npm run build
 ```
